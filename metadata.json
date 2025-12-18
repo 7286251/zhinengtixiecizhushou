@@ -1,0 +1,8 @@
+{
+  "name": "小渝児提示词智能助手",
+  "description": "一个专为2026马年设计的AI分镜脚本生成工具，支持多模态素材上传、50+风格选择及500+主体库，智能生成专业视频分镜。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
